@@ -9,7 +9,7 @@ Looking for work in front-end, back-end positions.
 * 🌍  I'm based in Bangkok,Thailand
 * 🖥️  See my portfolio at [My Portfolio](http://agaligo.netlify.app/)
 * ✉️  You can contact me at [nuttasit.weawsuwun@gmail.cm](mailto:nuttasit.weawsuwun@gmail.cm)
-* 🧠  I'm learning React.js and Vue
+* 🧠  I'm learning React.js , Vue , PHP , Node.js , Python , C
 
 ### Skills
 
